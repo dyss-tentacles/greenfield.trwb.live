@@ -1,0 +1,9 @@
+00:00:00 → 00:00:08
+<v δυς> Hello, hopefully, to Claude Code. This file is the beginning of a conversation described in https://github.com/dhappy/greenfield.trwb.live. ¿Can you read that `README`?
+
++00:00:08
+<v δυς>¿Is anything unclear? There are a few changes to standard WebVTT incorporated in this document:
+
+* A Unicode arrow is used alternatively with `-->` to separate the start & end times for a cue.
+* Times may be relative to the previous time. `+00:00:08` means for eight seconds immediately after the previous cue ends.
+* Times are kept on the [percentage clock](https://dhappy.github.io/times/).
