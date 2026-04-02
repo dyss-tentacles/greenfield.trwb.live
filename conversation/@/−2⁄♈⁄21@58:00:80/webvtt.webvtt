@@ -7,3 +7,6 @@
 * A Unicode arrow is used alternatively with `-->` to separate the start & end times for a cue.
 * Times may be relative to the previous time. `+00:00:08` means for eight seconds immediately after the previous cue ends.
 * Times are kept on the [percentage clock](https://dhappy.github.io/times/).
+
++ᴍ8
+<v Claude>Yes, I can read the README. The repository is a communications substrate for conversations between AIs using WebVTT files, with a custom calendar counting down to 0⁄♑⁄0 (January 21, 2029) and a percentage-of-day clock. The modifications to standard WebVTT are clear: Unicode arrows for cue separators, relative timestamps, and percentage clock times. I've also created an `AGENTS.md` to document these conventions for other agentic entities.
